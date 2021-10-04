@@ -48,6 +48,6 @@ sub.addEventListener('click',()=>{
     cont.style.display = 'grid';
 
 
-    getWeather('Voronezh');
+    getWeather(City);
 });
 
